@@ -1,2 +1,2 @@
-Flask
+Flask==3.10
 sqlite3-binary
